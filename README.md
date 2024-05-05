@@ -1,4 +1,13 @@
-### Hi there 👋
+# Hi there 👋
+## Skills
+- Programming: Arduino, C, Javascript
+- 3d modelling: Fusion 360
+- Electronics: Arduinos, basic electronics
+
+## Planned things to so
+- Update all current repositories
+- Create a file sorter in C
+
 
 <!--
 **KhohZongEu/KhohZongEu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
