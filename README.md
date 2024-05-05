@@ -4,7 +4,7 @@
 - 3d modelling: Fusion 360
 - Electronics: Arduinos, basic electronics
 
-## Planned things to so
+## Planned things to do
 - Update all current repositories
 - Create a file sorter in C
 
