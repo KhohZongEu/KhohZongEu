@@ -1,12 +1,16 @@
 # Hi there 👋
 ## Skills
-- Programming: Arduino, C, Javascript
+- Programming: Arduino, basic C, basic Javascript
 - 3d modelling: Fusion 360
 - Hardware: Arduinos, basic electronics, 3d printing
+
+## On Going
+- Slot machine in C
 
 ## Planned things to do
 - Update all current repositories
 - Create a file sorter in C
+
 
 
 <!--
