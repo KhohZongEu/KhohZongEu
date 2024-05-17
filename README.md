@@ -5,10 +5,9 @@
 - Hardware: Arduinos, basic electronics, 3d printing
 
 ## On Going
-- Slot machine in C
+- Update all current repositories
 
 ## Planned things to do
-- Update all current repositories
 - Create a file sorter in C
 
 
