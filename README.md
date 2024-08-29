@@ -2,13 +2,11 @@
 ## Skills
 - Programming: Arduino, basic C, basic Javascript
 - 3d modelling: Fusion 360
-- Hardware: Arduinos, basic electronics, 3d printing
+- Hardware: Arduino, basic electronics, 3d printing
 
 ## On Going
-- Update all current repositories
 
 ## Planned things to do
-- Create a file sorter in C
 
 
 
