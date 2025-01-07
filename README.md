@@ -13,8 +13,6 @@ I am a passionate developer with an interest in [your interests, e.g., web devel
 
 ## Planned things to do
 
-## GitHub Stats
-![KhohZongEu's GitHub stats](https://github-readme-stats.vercel.app/api?username=KhohZongEu&show_icons=true&theme=radical)
 
 ## Connect with Me
 - [Email](mailto:khohzongeu@gmail.com)
@@ -22,6 +20,8 @@ I am a passionate developer with an interest in [your interests, e.g., web devel
 <!--
 **KhohZongEu/KhohZongEu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+## GitHub Stats
+![KhohZongEu's GitHub stats](https://github-readme-stats.vercel.app/api?username=KhohZongEu&show_icons=true&theme=radical)
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
