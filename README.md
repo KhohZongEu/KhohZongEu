@@ -2,20 +2,17 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=KhohZongEu)
 
 ## About Me
-I am a passionate developer with an interest in [your interests, e.g., web development, data science, etc.]. I enjoy learning new technologies and applying them to solve real-world problems. 
+Diploma of Engineering student at Monash College with a strong foundation in electronics, programming and 3D modelling. Experienced in developing functional prototypes, with experience in microcontroller development, CAD design and web development. Actively seeking opportunities to expand my technical knowledge and improve as an engineer.
 
 ## Skills
-- Programming: Arduino, basic C, basic Javascript
+- Programming: Arduino, C, JavaScript
 - 3d modelling: Fusion 360
-- Hardware: Arduino, basic electronics, 3d printing
-
-## On Going
-
-## Planned things to do
+- Hardware: Arduino, Electronics, 3D Printing
 
 
 ## Connect with Me
 - [Email](mailto:khohzongeu@gmail.com)
+- [Linkedin](https://www.linkedin.com/in/zong-k/)
 
 <!--
 **KhohZongEu/KhohZongEu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
