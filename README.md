@@ -2,7 +2,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=KhohZongEu)
 
 ## About Me
-Diploma of Engineering student at Monash College with a strong foundation in electronics, programming and 3D modelling. Experienced in developing functional prototypes, with experience in microcontroller development, CAD design and web development. Actively seeking opportunities to expand my technical knowledge and improve as an engineer.
+Bachelor of Engineering student at Monash University with a strong foundation in electronics, programming and 3D modelling. Experienced in developing functional prototypes, with experience in microcontroller development, CAD design and web development. Actively seeking opportunities to expand my technical knowledge and improve as an engineer.
 
 ## Skills
 - Programming: Arduino, C, JavaScript
